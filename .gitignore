@@ -1,0 +1,7 @@
+﻿obj/
+bin/
+.vs/
+
+KrosWebApi/Migrations/
+
+TODO.md
